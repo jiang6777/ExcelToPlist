@@ -1,2 +1,3 @@
 # ExcelToPlist
 将Excel表格转换为Plist文件
+实现方式是现将Excel表格文件转化为CSV格式文件，然后遍历CSV文件，将内容生成Plist文件，写入到沙盒目录下。
