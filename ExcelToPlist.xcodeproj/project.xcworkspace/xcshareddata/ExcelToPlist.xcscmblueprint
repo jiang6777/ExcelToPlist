@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B5174B6154A382464B8F81A55237B1A64C6D1166",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B5174B6154A382464B8F81A55237B1A64C6D1166" : 9223372036854775807,
+    "3E0E96F0CA40F1B0D68D48D8A98EC28762B475A1" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "884550DB-D43F-476D-B18E-2FEA5F5EBDC0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B5174B6154A382464B8F81A55237B1A64C6D1166" : "ExcelToPlist\/",
+    "3E0E96F0CA40F1B0D68D48D8A98EC28762B475A1" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ExcelToPlist",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ExcelToPlist.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jiang6777\/EecelToPlist",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3E0E96F0CA40F1B0D68D48D8A98EC28762B475A1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jiang6777\/EecelToPlist",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B5174B6154A382464B8F81A55237B1A64C6D1166"
+    }
+  ]
+}
